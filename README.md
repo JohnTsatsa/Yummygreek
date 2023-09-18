@@ -3,7 +3,6 @@
 Step 1:Drag and drop the folder on your Visual Studio Code
 
  ======  Starting your frontend ========
-
 Step 2: Open a terminal (shortucut CTR+SHIFT+`)  
 Step 3: Type inside the terminal "cd client"  
 Step 4: Type "npm i" and wait for the packages to install  
